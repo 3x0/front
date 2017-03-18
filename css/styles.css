@@ -1,0 +1,134 @@
+body {
+	background: url("../images/kolesov_background.png");
+}
+
+.resize{
+	background-color: #ffffff;
+	width: 980px;
+	margin: 25px auto;
+	display: block;
+
+}
+
+.blue_line{
+	display: block;
+	background-color: #023875;
+	border-radius: 5px;
+}
+
+.blue_line p{
+	padding: 10px 0 10px 15px;
+	margin: 0;
+}
+
+.clear{
+	clear: both;
+}
+
+.left_box{
+	float: left;
+  padding: 0px 0px 0px 10px;
+}
+
+.logo_info{
+	float: left;
+	font-family: Arial;
+	font-size: 24px;
+	color: #023875;
+}
+
+.ship{
+	float: right;
+	padding: 30px 0px 0px 10px; ;
+}
+.blue_line p{
+	color: #ffffff;
+}
+.kolesov{
+	font-size: 48px;
+}
+
+.logo_info small{
+	font-size: 13px;
+	color: #303030;
+}
+
+.right_box{
+	float: right;
+	padding: 0px 10px 0px 0px;
+}
+
+.right_box p{
+	font-family: Arial;
+	font-size: 24px;
+	color: #023875;
+
+}
+
+.right_box small{
+	font-size: 13px;
+	color: #303030;
+}
+
+.city_img .night img{
+	padding-left: 10px;
+	padding-right: 10px;
+  width: 960px;
+}
+
+.left_content{
+	float: left;
+	display: block;
+	padding-bottom: 100px;
+}
+
+.right_content{
+	float: right;
+	display: block;
+}
+
+.left_content h1{
+	color: #023875;
+	font-size: 24px;
+	padding-left: 10px;
+	font-family: Arial;
+	font-weight: normal;
+}
+
+.left_content p{
+	padding-left: 10px;
+	font-family: Arial;
+	font-size: 13px;
+	color: #303030;
+}
+
+.right_content .ul_title h2 {
+	background-color: #023875;
+	color: white;
+	font-size: 18px;
+	font-family: Arial;
+	font-weight: normal;
+	padding: 15px;
+}
+
+.right_content .ul_title{
+	padding-right: 10px;
+}
+li{
+	color: #023875;
+	font-family: Arial;
+	font-size: 14px;
+	text-transform: uppercase;
+	line-height: 30px;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding-left: 15px;
+}
+
+.footer{
+	display: block;
+
+}
